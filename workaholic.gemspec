@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Workaholic::VERSION
   spec.authors       = ["Vasily Reys"]
   spec.email         = ["reys.vasily@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Build bullet proof workers for your application}
+  spec.description   = %q{}
   spec.homepage      = "https://github.com/vreys/workaholic"
   spec.license       = "MIT"
 
