@@ -1,5 +1,5 @@
-require 'actor'
-require 'runner'
+require 'workaholic/actor'
+require 'workaholic/runner'
 
 module Workaholic
   class Manager

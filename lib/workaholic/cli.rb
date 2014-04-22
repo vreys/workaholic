@@ -1,8 +1,8 @@
 require 'singleton'
 
-require 'options_parser'
-require 'launcher'
-require 'signal_handler'
+require 'workaholic/options_parser'
+require 'workaholic/launcher'
+require 'workaholic/signal_handler'
 
 module Workaholic
   class CLI

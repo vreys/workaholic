@@ -1,5 +1,5 @@
-require 'actor'
-require 'manager'
+require 'workaholic/actor'
+require 'workaholic/manager'
 
 module Workaholic
   class Launcher

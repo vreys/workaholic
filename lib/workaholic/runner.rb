@@ -1,5 +1,5 @@
-require 'actor'
-require 'shutdown'
+require 'workaholic/actor'
+require 'workaholic/shutdown'
 
 module Workaholic
   class Runner
